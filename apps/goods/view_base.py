@@ -1,4 +1,4 @@
-from goods.models import Goods
+from .models import Goods
 from django.views.generic import View
 
 
